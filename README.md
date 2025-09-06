@@ -1,3 +1,3 @@
 # pancontinental.github.io
 
-This repo is used as storage for my Web site at https://pancontinental.nekoweb.org.
+This repo is used as storage for my Web site at [https://pancontinental.nekoweb.org](https://pancontinental.nekoweb.org).
